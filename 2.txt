@@ -1,1 +1,2 @@
 hello from 2
+This is from master side.
